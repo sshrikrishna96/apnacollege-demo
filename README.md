@@ -1,3 +1,3 @@
 # apnacollege-demo
 <br>
-Author : Shri Krishna Sharma
+Author : Shri Krishna Sharma (ECE)
